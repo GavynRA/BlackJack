@@ -1,2 +1,2 @@
 # BlackJack
-Text based blackjack game for multiple players against a dealer
+Text based blackjack game for multiple players against an AI dealer
